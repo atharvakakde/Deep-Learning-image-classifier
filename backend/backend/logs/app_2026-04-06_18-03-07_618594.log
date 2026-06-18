@@ -1,0 +1,2 @@
+2026-04-06 18:03:07.659 | INFO     | app.main:startup_event:23 - Database initialized and model warm‑up completed
+2026-04-06 18:03:39.063 | INFO     | app.main:predict_endpoint:45 - Prediction: Uncertain (conf=0.22958849370479584)

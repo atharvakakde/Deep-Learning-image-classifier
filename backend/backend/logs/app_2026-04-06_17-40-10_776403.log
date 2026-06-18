@@ -1,0 +1,6 @@
+2026-04-06 17:40:10.814 | INFO     | app.main:startup_event:23 - Database initialized and model warm‑up completed
+2026-04-06 17:46:19.708 | INFO     | app.main:predict_endpoint:45 - Prediction: Uncertain (conf=0.22958849370479584)
+2026-04-06 17:46:36.639 | INFO     | app.main:predict_endpoint:45 - Prediction: Uncertain (conf=0.22772599756717682)
+2026-04-06 17:46:49.536 | INFO     | app.main:predict_endpoint:45 - Prediction: Uncertain (conf=0.22772599756717682)
+2026-04-06 17:49:58.362 | INFO     | app.main:predict_endpoint:45 - Prediction: Uncertain (conf=0.22958849370479584)
+2026-04-06 17:58:58.696 | INFO     | app.main:predict_endpoint:45 - Prediction: Uncertain (conf=0.22958849370479584)

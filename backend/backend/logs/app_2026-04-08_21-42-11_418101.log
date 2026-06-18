@@ -1,0 +1,2 @@
+2026-04-08 21:42:11.536 | INFO     | app.main:startup_event:23 - Database initialized and model warm‑up completed
+2026-04-08 21:43:44.528 | INFO     | app.main:predict_endpoint:57 - Prediction: cat (conf=0.9875885844230652)

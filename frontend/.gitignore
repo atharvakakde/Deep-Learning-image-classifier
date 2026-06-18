@@ -1,0 +1,15 @@
+node_modules/
+dist/
+
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+predictions.db
+
+.env
+.env.*
+
+*.log

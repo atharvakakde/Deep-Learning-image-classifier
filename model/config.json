@@ -1,0 +1,5 @@
+{
+  "input_size": [32, 32],
+  "normalize": "0-1",
+  "class_count": 10
+}
